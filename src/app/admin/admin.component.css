@@ -1,0 +1,31 @@
+/* admin.component.css */
+
+form {
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  
+  .form-label {
+    margin: 10px;
+    font-size: 16px;
+  }
+  
+  
+  .form-control {
+    margin: 10px;
+    width: 80%;
+  }
+  
+ 
+  .btn {
+    margin: 10px;
+    color: white;
+  }
+  
+
+  .list-group-item {
+    margin: 5px;
+    font-size: 18px;
+  }
+  
